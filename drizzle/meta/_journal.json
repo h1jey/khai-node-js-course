@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1743711582274,
+      "tag": "0000_clever_true_believers",
+      "breakpoints": true
+    }
+  ]
+}
